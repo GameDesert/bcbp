@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: bcbp
-Version: 0.3
+Version: 1.0
 Summary: A Python module to help decode IATA-standard boarding passes with barcodes.
 Home-page: https://github.com/GameDesert/bcbp
 Author: hattr
@@ -20,6 +20,7 @@ A Python module to help decode IATA-standard boarding passes with barcodes.
 
 Data is usually stored on PDF417, QR Code, Aztec, or Data Matrix barcodes as defined by IATA Resolution 792.
 
+[Module on PyPi](https://pypi.org/project/bcbp/)
 
 Read more about the standard:
 
@@ -47,8 +48,8 @@ The following commands are available in BCBP:
 
 ## Planned Upgrades
 
-- Error catching when improper string is passed.
-- `bcbp.encode()` function.
+- ~~Error catching when improper string is passed.~~
+- ~~`bcbp.encode()` function.~~
 
 ---
 
