@@ -7,7 +7,7 @@ Data is usually stored on PDF417, QR Code, Aztec, or Data Matrix barcodes as def
 
 Read more about the standard:
 
-https://www.iata.org/contentassets/1dccc9ed041b4f3bbdcf8ee8682e75c4/2021_03_02-bcbp-implementation-guide-version-7-.pdf
+[On the IATA website](https://www.iata.org/contentassets/1dccc9ed041b4f3bbdcf8ee8682e75c4/2021_03_02-bcbp-implementation-guide-version-7-.pdf)
 
 ---
 
