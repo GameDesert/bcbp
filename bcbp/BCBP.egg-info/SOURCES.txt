@@ -1,0 +1,8 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+bcbp/bcbp.egg-info/PKG-INFO
+bcbp/bcbp.egg-info/SOURCES.txt
+bcbp/bcbp.egg-info/dependency_links.txt
+bcbp/bcbp.egg-info/top_level.txt

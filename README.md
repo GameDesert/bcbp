@@ -14,3 +14,30 @@ Read more about the standard:
 Available under the GNU GPLv3 Licence.
 
 Published under the name "hattr".
+
+---
+
+## Usage
+
+Install BCBP using `pip install bcbp`.
+
+You will need the `datetime`, `re`, and `json` modules installed for BCBP to function properly.
+
+The following commands are available in BCBP:
+
+- `bcbp.decode("[IATA Resolution 792-standard BCBP data string.]")`
+
+---
+
+## Planned Upgrades
+
+- Error catching when improper string is passed.
+- `bcbp.encode()` function.
+
+---
+
+## Acknowledgements
+
+https://shaun.net/notes/whats-contained-in-a-boarding-pass-barcode/
+
+https://gizmodo.com/hacker-builds-a-qr-code-generator-that-lets-him-into-fa-1784884083
