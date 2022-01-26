@@ -1,5 +1,7 @@
 # BCBP
 
+## This project is no longer supported. Use at your own risk.
+
 A Python module to help decode IATA-standard boarding passes with barcodes.
 
 Data is usually stored on PDF417, QR Code, Aztec, or Data Matrix barcodes as defined by IATA Resolution 792.
